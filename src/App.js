@@ -11,7 +11,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="magic">
+      <div className="cal-wrapper">
         <Calculator />
       </div>
     );
