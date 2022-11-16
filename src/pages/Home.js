@@ -1,8 +1,9 @@
+/* eslint-disable react/react-in-jsx-scope */
 export default function Home() {
   return (
     <div className="home">
       <h1 className="hello">Welcome to our page!</h1>
-      <p class="para">
+      <p className="para">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed augue
         sed leo vehicula blandit id dictum dolor. Ut mauris est, volutpat ut
         blandit vel, fermentum vel tellus. Nunc rhoncus sapien quis diam
@@ -16,7 +17,7 @@ export default function Home() {
         ultrices mi. Nam posuere id nunc vitae tincidunt. Mauris dignissim et
         ante at egestas. Aliquam erat volutpat.
       </p>
-      <p class="para">
+      <p className="para">
         Sed eget nunc mauris. Sed vitae dolor finibus, iaculis eros porttitor,
         tincidunt odio. Fusce rutrum quis justo eget feugiat. Praesent placerat
         justo ac ipsum consequat, quis convallis nisl eleifend. Ut suscipit
