@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable react/react-in-jsx-scope */
 import { Link, useMatch, useResolvedPath } from 'react-router-dom';
 export default function Navbar() {
   return (
