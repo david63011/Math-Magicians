@@ -9,15 +9,13 @@
 }
 
 body {
-  font-family: 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+    'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   font-size: 12px;
   font-weight: normal;
   align-items: center;
   justify-content: center;
 }
-
 
 .cal-wrapper {
   width: 400px;
@@ -46,9 +44,8 @@ body {
 
 .cal-btn:hover {
   background-color: #eaeaea;
-color: deeppink;
+  color: deeppink;
 }
-
 
 .display {
   width: 100%;
@@ -63,14 +60,11 @@ color: deeppink;
   padding: 0 10px;
 }
 
-
 .right {
   background-color: #da800cef;
-
 }
 
 .zero-btn {
   grid-column-start: 1;
   grid-column-end: 3;
 }
-
