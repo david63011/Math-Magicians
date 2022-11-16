@@ -16,7 +16,7 @@ function Calculator() {
   const { total, next, operation } = calc;
   return (
     <div className="cal-wrapper">
-      <h1 class="message">Lets do some Math!!</h1>
+      <h1 className="message">Lets do some Math!!</h1>
       <div className="display">
         {total}
         {'  '}
