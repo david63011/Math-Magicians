@@ -1,6 +1,5 @@
 /* eslint-disable no-undef */
-import operate from '../logic/operate';
-
+import operate from '../../logic/operate';
 describe('operate', () => {
     it('should return a number', () => {
         expect(typeof operate(1, 2, '+')).toBe('number');
