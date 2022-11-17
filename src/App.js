@@ -3,8 +3,8 @@ import './navbar.css';
 
 import Quote from './pages/Quote';
 import React from 'react';
-import Calculator from './pages/Calculator';
-import Navbar from './components/Navbar';
+import Calculator from './components/Calculator';
+import Navbar from './pages/Navbar';
 import Home from './pages/Home';
 import { Route, Routes } from 'react-router-dom';
 
