@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import operate from '../logic/operate';
 
 describe('operate', () => {
