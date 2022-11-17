@@ -1,6 +1,5 @@
 /* eslint-disable no-undef */
-import calculate from '../logic/calculate';
-
+import calculate from '../../logic/calculate';
 describe('calculate', () => {
     it('should return an object', () => {
         expect(typeof calculate({ total: null, next: null, operation
